@@ -1,0 +1,30 @@
+Q-1	Which operation is used as logical 'AND'?
+1. Operator - &
+2. Operator - &&
+3. Operator - ||
+4. Operator - +
+2
+Q-2	A C++ code ends with ____?
+1. Semicolon(;)
+2. Full Stop(.)
+3. Comma(,)
+4. Slash(/)
+1
+Q-3	What does your class can hold?
+1. data
+2. functions
+3. both a & b
+4. none of the mentioned
+3
+Q-4	Which operator is used to signify the namespace?
+1. conditional operator
+2. ternary operator
+3. scope operator
+4. none of the mentioned
+3
+Q-5	How are constants declared?
+1. const keyword
+2. #define preprocessor
+3. both a and b
+4. none of the mentioned
+3

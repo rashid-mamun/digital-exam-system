@@ -1,0 +1,30 @@
+Q-1	Abstract class is __
+1. A class must contain all pure virtual functions.
+2. A class must contain at least one pure virtual function.
+3. A class may not contain pure virtual function.
+4. A class must contain one pure virtual function defined outside the class.
+2
+Q-2	Which of the following is not a keyword in C++?
+1. volatile
+2. friend
+3. extends
+4. this
+3
+Q-3	What is a generic class?
+1. Function template
+2. Class template
+3. Inherited class
+4. None of the above
+2
+Q-4	Choose the invalid identifier from the below?
+1. int
+2. bool
+3. DOUBLE
+4. __0__
+2
+Q-5	How many arguments can a destructor of a class receive?
+1. Zero
+2. One
+3. Two
+4. None of the above
+1
