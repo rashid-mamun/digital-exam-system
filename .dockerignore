@@ -1,0 +1,17 @@
+# Ignore build artifacts
+build/
+*.o
+*.exe
+
+# Ignore version control and IDE files
+.git/
+.gitignore
+.vscode/
+.idea/
+
+# Ignore temporary files
+*.swp
+*.tmp
+
+# Ignore documentation (optional, included here for completeness)
+*.md
